@@ -3,7 +3,6 @@
 ## Here are things I like:
 * making stuff (usually websites)
 * exploring possibilites
-* I liked GitHub's Copilot (back when it was free)
 * [TypeScript](https://www.typescriptlang.org/)
 * VS Code
 * React
